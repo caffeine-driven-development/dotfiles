@@ -1,2 +1,2 @@
 # dotfiles
-Dotfiles repository for bootstrapping new machines and maintaining sensible defaults
+Repository of configuration files/scripts for my preferred dev environment
